@@ -36,6 +36,18 @@ Open up SLP Distributor and choose “Browse” under install License and choose
 Reinstall SLP Distributor and flush licenses:
 
 
+
+**ABB EGM PYTHON**
+
+https://github.com/FLo-ABB/ABB-EGM-Python
+
+https://github.com/rparak/ABB_EGM_Python
+
+
+
+
+
+
 Make sure the clock is synchronized.
 Download the latest SLP distributor version that is distributed with the RobotStudio.zip
 Reinstall SLP distributor from the terminal: ‘install.cmd -uninstall’
